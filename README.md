@@ -14,7 +14,7 @@ Three free learning paths that take you from "I have never used Git" to "I own t
 
 You work on a real repository for a fictional solar installer, **Helios Energy**, with free
 Salesforce orgs that come pre-loaded with the app and its data. Everything is free: no paid
-service, no licence, no credit card.
+service, no licence, no credit card. Bung
 
 Each level awards a **Cloudity badge**. It is a badge, not a certification.
 
