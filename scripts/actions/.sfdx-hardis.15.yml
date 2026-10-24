@@ -1,0 +1,9 @@
+commandsPostDeploy:
+  - id: 1e7a7460-fd4d-4fff-99f4-a389f8dadf75
+    label: Data Setup
+    type: data
+    command: ""
+    parameters:
+      sfdmuProject: HandoverTemplates
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
