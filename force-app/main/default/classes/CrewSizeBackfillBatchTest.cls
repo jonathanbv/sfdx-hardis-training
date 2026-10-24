@@ -1,6 +1,6 @@
 /**
  * Sample for Lab 2.3. Copy it into force-app/main/default/classes/ as it is.
- *
+ *boop
  * Once this story is deployed, Crew_Size__c is required and no installation
  * without one can be inserted, not even by a test. So the test inserts a valid
  * record and hands the batch that record as it was before the story: with no

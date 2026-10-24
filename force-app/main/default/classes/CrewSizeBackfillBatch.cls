@@ -1,6 +1,6 @@
 /**
  * Sample for Lab 2.3. Copy it into force-app/main/default/classes/ as it is.
- *
+ *boop
  * Gives every installation without a crew size the default crew of two, so that
  * Crew_Size__c can be required. A batch works through the table in chunks, each
  * chunk in a transaction of its own, so it holds whatever the size of the table:
